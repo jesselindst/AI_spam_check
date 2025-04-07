@@ -1,0 +1,9 @@
+[EMAIL]
+IMAP_HOST=your_imap_host (e.g., imap.gmail.com)
+EMAIL_USER_YOURACCOUNTNAME=your_email@example.com
+# Add more email users as needed, following the pattern EMAIL_USER_ACCOUNTNAME=email@address.com
+EMAIL_PASS=your_email_password_or_app_password
+SPAM_FOLDER=YourSpamFolderName (e.g., [Gmail]/Spam)
+
+[OPENAI]
+API_KEY=your_openai_api_key 
